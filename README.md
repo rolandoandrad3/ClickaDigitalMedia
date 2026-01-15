@@ -1,30 +1,72 @@
-# Astro Starter Kit: Portfolio
+# Portafolio Web – Clicka Digital Media 🚀
 
-```sh
-npm create astro@latest -- --template portfolio
-```
+Portafolio profesional desarrollado con **Astro + Tailwind CSS**, enfocado en **velocidad, SEO técnico y diseño moderno**.  
+Este proyecto sirve como demo para mostrar a clientes cómo se construyen **sitios web ultra rápidos y optimizados para buscadores**.
 
-[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/withastro/astro/tree/latest/examples/portfolio)
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/withastro/astro?devcontainer_path=.devcontainer/portfolio/devcontainer.json)
+## 🌐 Tecnologías utilizadas
 
-> 🧑‍🚀 **Seasoned astronaut?** Delete this file. Have fun!
+- **Astro** – Framework moderno orientado a performance
+- **Tailwind CSS** – Diseño rápido, limpio y escalable
+- **HTML-first** – Menos JavaScript, mejores Core Web Vitals
+- **SEO técnico optimizado** – Estructura limpia y accesible
 
-![portfolio](https://user-images.githubusercontent.com/357379/210779178-a98f0fb7-6b1a-4068-894c-8e1403e26654.jpg)
+## ✨ Qué ofrece este portafolio
 
-## 🧞 Commands
+- ⚡ Sitios ultra rápidos
+- 🔍 Webs optimizadas para SEO
+- 📈 Mejor puntuación en PageSpeed
+- 🧩 Menos errores técnicos de SEO
+- 🎨 Diseño moderno y adaptable
+- 📱 Totalmente responsive
 
-All commands are run from the root of the project, from a terminal:
+Ideal para:
+- Empresas locales
+- Emprendedores
+- Agencias
+- Portafolios profesionales
+- Landing pages de servicios
 
-| Command                   | Action                                           |
-| :------------------------ | :----------------------------------------------- |
-| `npm install`             | Installs dependencies                            |
-| `npm run dev`             | Starts local dev server at `localhost:4321`      |
-| `npm run build`           | Build your production site to `./dist/`          |
-| `npm run preview`         | Preview your build locally, before deploying     |
-| `npm run astro ...`       | Run CLI commands like `astro add`, `astro check` |
-| `npm run astro -- --help` | Get help using the Astro CLI                     |
+---
 
-## 👀 Want to learn more?
+## 🧞 Comandos
 
-Feel free to check [our documentation](https://docs.astro.build) or jump into our [Discord server](https://astro.build/chat).
+Todos los comandos se ejecutan desde la raíz del proyecto:
+
+| Comando                     | Acción                                             |
+|----------------------------|----------------------------------------------------|
+| `npm install`              | Instala las dependencias                           |
+| `npm run dev`              | Servidor de desarrollo en `localhost:4321`        |
+| `npm run build`            | Genera el sitio para producción en `./dist/`      |
+| `npm run preview`          | Vista previa del build antes de desplegar         |
+| `npm run astro ...`        | Ejecuta comandos CLI de Astro                     |
+
+---
+
+## 🚀 Deploy recomendado
+
+Este proyecto puede desplegarse fácilmente en:
+- Netlify
+- Vercel
+- Cloudflare Pages
+
+Todos optimizados para Astro y SEO.
+
+---
+
+## 📌 Sobre Clicka Digital Media
+
+**Clicka Digital Media** es una agencia enfocada en la creación de:
+- Sitios web rápidos y optimizados
+- SEO técnico
+- Experiencia de usuario
+- Performance y conversión
+
+📩 ¿Te interesa trabajar juntos?  
+Contáctanos y lleva tu proyecto al siguiente nivel.
+
+---
+
+## 📚 Recursos
+
+- Documentación oficial de Astro: https://docs.astro.build
+- Comunidad Astro: https://astro.build/chat
